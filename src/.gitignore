@@ -1,6 +1,6 @@
-.idea
+../.idea
 
-main.css
+dist/main.css
 
 yarn.lock
 
