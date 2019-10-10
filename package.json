@@ -1,0 +1,13 @@
+{
+  "name": "cours1_webfront",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/atordjmann/cours1_webfront.git",
+  "author": "atordjmann <tordjmann.audrey@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "postcss": "^7.0.18",
+    "postcss-cli": "^6.1.3",
+    "tailwindcss": "^1.1.2"
+  }
+}
